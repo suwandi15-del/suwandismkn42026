@@ -1,0 +1,6 @@
+{
+  "name": "Mathematika Adventure - Menemukan Akar-Akar Persamaan Kuadrat",
+  "description": "LMS Matematika SMK interaktif berbasis komik digital, laboratorium kuadratik interaktif, game edukasi, evaluasi, refleksi, dan Panel Guru SMKN 4 Soppeng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
